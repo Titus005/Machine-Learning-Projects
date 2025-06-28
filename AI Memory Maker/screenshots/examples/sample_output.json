@@ -1,1 +1,9 @@
+{
+  "summary": "The user enjoyed meeting at the café and is planning to meet again next weekend.",
+  "sentiment": {
+    "label": "POSITIVE",
+    "score": 0.98
+  },
+  "image_description": "happy friends meeting at a cozy cafe"
+}
 
