@@ -1,14 +1,21 @@
 # 🧠 AI Memory Maker
 
-Turn raw conversations into summarized, emotionally tagged, and visually generated memory cards using AI.
+Transform raw chat messages into summarized, emotional, and visual memories using AI.
 
-## Features
-- Text Summarization (via Hugging Face Transformers)
-- Sentiment Analysis
-- Text-to-Image Generation
-- Streamlit UI
+## 📌 Features
+- Summarize long or short conversations using AI
+- Analyze the sentiment (positive, neutral, negative)
+- Generate a unique image based on the summary
+- Display a clean visual memory card
 
-## Run the App
+## 🛠️ Technologies Used
+- Python + Streamlit
+- Hugging Face Transformers
+- Stable Diffusion for image generation
+
+## 🚀 Run the App
+
+### 1. Clone the Repo
 ```bash
-pip install -r requirements.txt
-streamlit run ai_memory_maker_app.py
+git clone https://github.com/your-username/Machine-Learning-Projects.git
+cd Machine-Learning-Projects/ai-memory-maker
